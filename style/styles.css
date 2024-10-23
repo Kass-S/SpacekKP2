@@ -1,0 +1,74 @@
+body
+{
+    background-image: url(/assets/greenbg3.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    
+    font-family: Libre Caslon Text;
+}
+
+.header
+{
+    font-family: Libre Caslon Display;
+    color: #ffffff;
+    background-color: #0A4B1F;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    display: flex;
+}
+
+section
+{
+    padding-left: 150px;
+    padding-top: 100px;
+}
+
+.index-text
+{
+    background-color: #97b29881;
+    font-size: 18px;
+}
+
+.interest-acc
+{
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    background-color: #97B298;
+}
+
+.bg-text-green
+{
+    margin-top: 80px;
+    margin-bottom: 0px;
+    background-color: #97B298;
+    font-size: 26px;
+}
+
+.bg-text-green
+{
+    background-color: #97B298;
+}
+
+.green-acc
+{
+    background-color: #89a88a9c;
+}
+
+.green-less-acc
+{
+    background-color: #89a88a46;
+}
+
+.green-acc-acc
+{
+    background-color: #97B298;
+}
+
+.btn-color
+{
+    color: white;
+    background-color: #08B25D;
+    width: 200px;
+}
